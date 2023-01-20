@@ -12,18 +12,18 @@ default parameters) gives the following output on the development set.
 ```
               precision    recall  f1-score   support
 
-          da       0.53      0.35      0.42      1986
-          et       0.57      0.85      0.68      2638
-          fi       0.47      0.09      0.15      1405
-         mdf       0.38      0.43      0.40        54
-         mhr       0.77      0.90      0.83     12905
+          da       0.51      0.36      0.42      1986
+          et       0.56      0.86      0.68      2638
+          fi       0.41      0.09      0.15      1405
+         mdf       0.31      0.52      0.39        54
+         myv       0.03      0.02      0.02       239
           nn       0.01      0.01      0.01       168
-          ru       0.58      0.78      0.67     10153
-          sv       0.66      0.58      0.62      5012
-          uk       0.59      0.28      0.38      8085
+          ru       0.57      0.83      0.68     10153
+          sv       0.67      0.60      0.64      5012
+          uk       0.61      0.32      0.42      8085
 
-    accuracy                           0.65     42406
-   macro avg       0.51      0.47      0.46     42406
-weighted avg       0.64      0.65      0.63     42406
+    accuracy                           0.58     29740
+   macro avg       0.41      0.40      0.38     29740
+weighted avg       0.58      0.58      0.55     29740
 
 ```

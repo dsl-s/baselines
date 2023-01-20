@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # 
 
-LANGUAGE_CODES=${LANGUAGE_CODES:-da et fi mdf mhr nn-NO ru sv-SE uk}
+LANGUAGE_CODES=${LANGUAGE_CODES:-da et fi mdf myv nn-NO ru sv-SE uk}
 
 
 for lcode in $LANGUAGE_CODES;do
