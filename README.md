@@ -15,8 +15,8 @@ default parameters) gives the following output on the development set.
           da       0.53      0.35      0.42      1986
           et       0.57      0.85      0.68      2638
           fi       0.47      0.09      0.15      1405
-          df       0.38      0.43      0.40        54
-          hr       0.77      0.90      0.83     12905
+         mdf       0.38      0.43      0.40        54
+         mhr       0.77      0.90      0.83     12905
           nn       0.01      0.01      0.01       168
           ru       0.58      0.78      0.67     10153
           sv       0.66      0.58      0.62      5012
